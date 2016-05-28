@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="67232" started-at="2016-05-28T20:30:34Z" finished-at="2016-05-28T20:31:41Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="67232" started-at="2016-05-28T20:30:34Z" finished-at="2016-05-28T20:31:41Z">
+      <class name="com.build.script.BuildTestCase">
+        <test-method status="PASS" signature="launchAppUrl()[pri:0, instance:com.build.script.BuildTestCase@2aafb23c]" name="launchAppUrl" is-config="true" duration-ms="16653" started-at="2016-05-28T15:30:34Z" finished-at="2016-05-28T15:30:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchAppUrl -->
+        <test-method status="PASS" signature="searchForProduct()[pri:0, instance:com.build.script.BuildTestCase@2aafb23c]" name="searchForProduct" duration-ms="50533" started-at="2016-05-28T15:30:51Z" finished-at="2016-05-28T15:31:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchForProduct -->
+        <test-method status="PASS" signature="closePageWindow()[pri:0, instance:com.build.script.BuildTestCase@2aafb23c]" name="closePageWindow" is-config="true" duration-ms="26" started-at="2016-05-28T15:31:41Z" finished-at="2016-05-28T15:31:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closePageWindow -->
+      </class> <!-- com.build.script.BuildTestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
